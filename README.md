@@ -1,6 +1,6 @@
 # musette_app
 
-A new Flutter project.
+This project provides demo of license checking system where you can search for a song to find if that said song could be monetized, get shared revenue with the original artist or unavailable.
 
 ## Getting Started
 
